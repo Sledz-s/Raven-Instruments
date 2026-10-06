@@ -1,0 +1,44 @@
+{
+    "parent": "raveninstrument:genshin_instruments/people_of_the_springs",
+
+    "display": {
+        "icon": {
+            "item": "raveninstrument:ukulele"
+        },
+
+        "frame": "goal",
+
+        "title": {
+            "translate": "raveninstrument.advancements.main.master_of_the_springs.title"
+        },
+        "description": {
+            "translate": "raveninstrument.advancements.main.master_of_the_springs.description"
+        }
+    },
+
+    "criteria": {
+        "instrument_1_played": {
+            "trigger": "raveninstrument_instrument_played",
+
+            "conditions": {
+                "instrument": {
+                    "items": ["raveninstrument:ukulele"]
+                }
+            }
+        },
+        "instrument_2_played": {
+            "trigger": "raveninstrument_instrument_played",
+
+            "conditions": {
+                "instrument": {
+                    "items": ["raveninstrument:djem_djem_drum"]
+                }
+            }
+        }
+    },
+
+    "requirements": [
+        ["instrument_1_played"],
+        ["instrument_2_played"]
+    ]
+}

@@ -1,0 +1,83 @@
+package net.sl3dz.raveninstruments.item;
+
+import net.sl3dz.raveninstruments.RavenInstrumentsMod;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.world.item.CreativeModeTabs;
+import net.minecraft.world.item.Item;
+import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
+
+import static net.sl3dz.raveninstruments.networking.packet.instrument.util.InstrumentPacketUtil.sendOpenPacket;
+
+@EventBusSubscriber(modid = RavenInstrumentsMod.MODID, bus = Bus.MOD)
+public class GIItems {
+    
+    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, RavenInstrumentsMod.MODID);
+    public static void register(final IEventBus bus) {
+        ITEMS.register(bus);
+    }
+
+    public static final RegistryObject<Item>
+        WINDSONG_LYRE = ITEMS.register("windsong_lyre", () ->
+            new InstrumentItem(
+                (player) -> sendOpenPacket(player, loc("windsong_lyre"))
+            )
+        ),
+        VINTAGE_LYRE = ITEMS.register("vintage_lyre", () ->
+            new InstrumentItem(
+                (player) -> sendOpenPacket(player, loc("vintage_lyre"))
+            )
+        ),
+
+        FLORAL_ZITHER = ITEMS.register("floral_zither", () ->
+            new InstrumentItem(
+                (player) -> sendOpenPacket(player, loc("floral_zither"))
+            )
+        ),
+
+        GLORIOUS_DRUM = ITEMS.register("glorious_drum", () ->
+            new InstrumentItem(
+                (player) -> sendOpenPacket(player, loc("glorious_drum"))
+            )
+        ),
+
+        NIGHTWIND_HORN = ITEMS.register("nightwind_horn", () ->
+            new NightwindHornItem(
+                (player) -> sendOpenPacket(player, loc("nightwind_horn"))
+            )
+        ),
+
+        UKULELE = ITEMS.register("ukulele", () ->
+            new InstrumentItem(
+                (player) -> sendOpenPacket(player, loc("ukulele"))
+            )
+        ),
+
+        DJEM_DJEM_DRUM = ITEMS.register("djem_djem_drum", () ->
+            new InstrumentItem(
+                (player) -> sendOpenPacket(player, loc("djem_djem_drum"))
+            )
+        )
+    ;
+
+    private static ResourceLocation loc(final String path) {
+        return new ResourceLocation(RavenInstrumentsMod.MODID, path);
+    }
+
+
+    @SubscribeEvent
+    public static void registerItemsToTab(final BuildCreativeModeTabContentsEvent event) {
+        if (!event.getTabKey().equals(CreativeModeTabs.TOOLS_AND_UTILITIES))
+            return;
+
+        for (final RegistryObject<Item> itemObj : ITEMS.getEntries())
+            event.accept(itemObj.get());
+    }
+
+}

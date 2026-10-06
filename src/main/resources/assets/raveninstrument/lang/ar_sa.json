@@ -1,0 +1,56 @@
+{
+    "raveninstrument.itemGroup.instruments": "الات موسيقية",
+
+    "item.raveninstrument.windsong_lyre": "القيثارة",
+    "item.raveninstrument.floral_zither": "القانون",
+    "item.raveninstrument.vintage_lyre": "خمر القيثارة",
+    "item.raveninstrument.glorious_drum": "طبلة اغتكي الرائعة والمجيدة",
+    "item.raveninstrument.ukulele": "القيثارة",
+
+
+    "soundCategory.record": "الات موسيقية",
+
+
+    "button.raveninstrument.instrumentOptions": "خيارات الأداة",
+    "label.raveninstrument.zither_options": "Zither Options",
+
+
+    "button.raveninstrument.audioChannels": "Instrument Audio Channel Type",
+    "button.raveninstrument.audioChannels.mono": "مونو",
+    "button.raveninstrument.audioChannels.stereo": "ستيريو",
+    "button.raveninstrument.audioChannels.mixed.tooltip":
+        "إذا تم تعيين فئة صوت الآلات على 100٪ ، فسوف تسمع آلات على ستيريو ضمن٪ s كتل من النطاق.\nخلاف ذلك ، سوف تسمع مونو.",
+    "button.raveninstrument.audioChannels.mixed": "مختلط",
+    "button.raveninstrument.stop_music_on_play.tooltip": "عندما تعزف أنت أو لاعبون آخرون ضمن٪ s من النطاق على آلة موسيقية ، ستتوقف موسيقى Minecraft في الخلفية.",
+    "button.raveninstrument.stop_music_on_play": "إيقاف تشغيل الموسيقى",
+    "button.raveninstrument.shared_instrument.tooltip": "تعرف على ما يلعبه لاعبو الملاحظات الآخرون القريبون في شاشة الآلة الموسيقية الخاصة بك",
+    "button.raveninstrument.shared_instrument": "شاشة الجهاز المشترك",
+
+    "button.raveninstrument.render_background": "إظهار مرئيات الخلفية",
+    
+
+
+    "button.raveninstrument.label": "نوع تسميات الملاحظات",
+    "button.raveninstrument.pitch": "نغمة",
+
+    "button.raveninstrument.zither.soundType": "نوع الصوت",
+    "button.raveninstrument.zither.soundType.old": "قديم",
+    "button.raveninstrument.zither.soundType.new": "جديد",
+
+
+    "button.raveninstrument.label.do_re_mi": "دو ري مي",
+
+    "raveninstrument.label.do": "دو",
+    "raveninstrument.label.re": "ري",
+    "raveninstrument.label.mi": "مي",
+    "raveninstrument.label.fa": "فا",
+    "raveninstrument.label.so": "صول",
+    "raveninstrument.label.la": "لا",
+    "raveninstrument.label.ti": "تي",
+
+
+    "button.raveninstrument.label.keyboard_layout": "لوحة المفاتيح",
+    "button.raveninstrument.label.qwerty": "لوحة المفاتيح (QWERTY)",
+    "button.raveninstrument.label.none": "لا تسمية"
+
+}

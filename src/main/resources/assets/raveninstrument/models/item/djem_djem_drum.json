@@ -1,0 +1,6 @@
+{
+    "parent": "raveninstrument:item/instrument",
+    "textures": {
+        "layer0": "raveninstrument:item/djem_djem_drum"
+    }
+}

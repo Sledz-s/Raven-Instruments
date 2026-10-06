@@ -1,0 +1,53 @@
+package net.sl3dz.raveninstruments.client.gui.screen.instrument.ukelele;
+
+import net.sl3dz.raveninstruments.client.config.ModClientConfigs;
+import net.sl3dz.raveninstruments.client.gui.screen.options.instrument.partial.SingleButtonOptionsScreen;
+import net.minecraft.client.gui.components.AbstractButton;
+import net.minecraft.client.gui.components.CycleButton;
+import net.minecraft.client.gui.components.Tooltip;
+import net.minecraft.network.chat.Component;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
+
+@OnlyIn(Dist.CLIENT)
+public class UkuleleOptionsScreen extends SingleButtonOptionsScreen {
+
+    public UkuleleOptionsScreen(final UkuleleScreen screen) {
+        super(screen);
+    }
+
+    private UkuleleScreen screen() {
+        return (UkuleleScreen) instrumentScreen.get();
+    }
+
+    @Override
+    protected String optionsLabelKey() {
+        return "label.raveninstrument.ukulele_options";
+    }
+
+
+    @Override
+    protected AbstractButton constructButton() {
+        return CycleButton.<Ukulele3rdOctaveType>builder((value) ->
+            Component.translatable(value.key)
+        )
+            .withValues(Ukulele3rdOctaveType.values())
+            .withInitialValue(screen().octaveType)
+            .withTooltip((value) -> {
+                if (value == Ukulele3rdOctaveType.TREBLE) {
+                    return Tooltip.create(Component.translatable(value.key + ".tooltip"));
+                }
+
+                return null;
+            })
+            .create(0, 0,
+                getBigButtonWidth(), getButtonHeight(),
+                Component.translatable("button.raveninstrument.ukulele_3rd_octave"), this::onUkuleleOctaveChanged
+            );
+    }
+
+    private void onUkuleleOctaveChanged(CycleButton<Ukulele3rdOctaveType> button, Ukulele3rdOctaveType value) {
+        screen().octaveType = value;
+        queueToSave("ukulele_3rd_octave_type", () -> ModClientConfigs.UKULELE_3RD_OCTAVE_TYPE.set(value));
+    }
+}

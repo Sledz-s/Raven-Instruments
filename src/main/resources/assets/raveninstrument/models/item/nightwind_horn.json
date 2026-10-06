@@ -1,0 +1,28 @@
+{
+	"loader":"raveninstrument:separate_transforms",
+	"gui_light": "front",
+
+	"base": {
+		"parent": "raveninstrument:item/nightwind_horn_idle"
+	},
+	"perspectives": {
+		"gui": {
+			"parent": "raveninstrument:item/nightwind_horn_item"
+		},
+		"ground": {
+			"parent": "raveninstrument:item/nightwind_horn_item"
+		},
+		"fixed": {
+			"parent": "raveninstrument:item/nightwind_horn_item"
+		}
+	},
+
+	"overrides": [
+		{
+			"predicate": {
+				"raveninstrument:instrument_open": 1
+			},
+			"model": "raveninstrument:item/nightwind_horn_played"
+		}
+	]
+}

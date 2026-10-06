@@ -1,0 +1,32 @@
+{
+    "parent": "raveninstrument:genshin_instruments/windsong_lyre",
+
+    "display": {
+        "icon": {
+            "item": "raveninstrument:floral_zither"
+        },
+
+        "title": {
+            "translate": "raveninstrument.advancements.main.floral_zither.title"
+        },
+        "description": {
+            "translate": "raveninstrument.advancements.main.floral_zither.description"
+        }
+    },
+
+    "criteria": {
+        "instrument_played": {
+            "trigger": "raveninstrument_instrument_played",
+
+            "conditions": {
+                "instrument": {
+                    "items": ["raveninstrument:floral_zither"]
+                }
+            }
+        }
+    },
+
+    "requirements": [
+        ["instrument_played"]
+    ]
+}

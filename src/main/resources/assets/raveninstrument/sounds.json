@@ -1,0 +1,790 @@
+{
+    "windsong_lyre_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:windsong_lyre/0"]
+    },
+    "windsong_lyre_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/1"]
+    },
+    "windsong_lyre_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/2"]
+    },
+    "windsong_lyre_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/3"]
+    },
+    "windsong_lyre_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/4"]
+    },
+    "windsong_lyre_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/5"]
+    },
+    "windsong_lyre_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/6"]
+    },
+    "windsong_lyre_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/7"]
+    },
+    "windsong_lyre_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/8"]
+    },
+    "windsong_lyre_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/9"]
+    },
+    "windsong_lyre_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/10"]
+    },
+    "windsong_lyre_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/11"]
+    },
+    "windsong_lyre_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/12"]
+    },
+    "windsong_lyre_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/13"]
+    },
+    "windsong_lyre_note_14": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/14"]
+    },
+    "windsong_lyre_note_15": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/15"]
+    },
+    "windsong_lyre_note_16": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/16"]
+    },
+    "windsong_lyre_note_17": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/17"]
+    },
+    "windsong_lyre_note_18": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/18"]
+    },
+    "windsong_lyre_note_19": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/19"]
+    },
+    "windsong_lyre_note_20": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/20"]
+    },
+
+    "windsong_lyre_note_0_stereo": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:windsong_lyre/0.stereo"]
+    },
+    "windsong_lyre_note_1_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/1.stereo"]
+    },
+    "windsong_lyre_note_2_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/2.stereo"]
+    },
+    "windsong_lyre_note_3_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/3.stereo"]
+    },
+    "windsong_lyre_note_4_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/4.stereo"]
+    },
+    "windsong_lyre_note_5_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/5.stereo"]
+    },
+    "windsong_lyre_note_6_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/6.stereo"]
+    },
+    "windsong_lyre_note_7_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/7.stereo"]
+    },
+    "windsong_lyre_note_8_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/8.stereo"]
+    },
+    "windsong_lyre_note_9_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/9.stereo"]
+    },
+    "windsong_lyre_note_10_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/10.stereo"]
+    },
+    "windsong_lyre_note_11_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/11.stereo"]
+    },
+    "windsong_lyre_note_12_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/12.stereo"]
+    },
+    "windsong_lyre_note_13_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/13.stereo"]
+    },
+    "windsong_lyre_note_14_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/14.stereo"]
+    },
+    "windsong_lyre_note_15_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/15.stereo"]
+    },
+    "windsong_lyre_note_16_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/16.stereo"]
+    },
+    "windsong_lyre_note_17_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/17.stereo"]
+    },
+    "windsong_lyre_note_18_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/18.stereo"]
+    },
+    "windsong_lyre_note_19_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/19.stereo"]
+    },
+    "windsong_lyre_note_20_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:windsong_lyre/20.stereo"]
+    },
+
+
+    "floral_zither_old_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:floral_zither_old/0"]
+    },
+    "floral_zither_old_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/1"]
+    },
+    "floral_zither_old_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/2"]
+    },
+    "floral_zither_old_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/3"]
+    },
+    "floral_zither_old_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/4"]
+    },
+    "floral_zither_old_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/5"]
+    },
+    "floral_zither_old_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/6"]
+    },
+    "floral_zither_old_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/7"]
+    },
+    "floral_zither_old_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/8"]
+    },
+    "floral_zither_old_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/9"]
+    },
+    "floral_zither_old_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/10"]
+    },
+    "floral_zither_old_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/11"]
+    },
+    "floral_zither_old_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/12"]
+    },
+    "floral_zither_old_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/13"]
+    },
+    "floral_zither_old_note_14": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/14"]
+    },
+    "floral_zither_old_note_15": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/15"]
+    },
+    "floral_zither_old_note_16": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/16"]
+    },
+    "floral_zither_old_note_17": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/17"]
+    },
+    "floral_zither_old_note_18": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/18"]
+    },
+    "floral_zither_old_note_19": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/19"]
+    },
+    "floral_zither_old_note_20": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_old/20"]
+    },
+
+    "floral_zither_new_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:floral_zither_new/0"]
+    },
+    "floral_zither_new_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/1"]
+    },
+    "floral_zither_new_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/2"]
+    },
+    "floral_zither_new_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/3"]
+    },
+    "floral_zither_new_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/4"]
+    },
+    "floral_zither_new_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/5"]
+    },
+    "floral_zither_new_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/6"]
+    },
+    "floral_zither_new_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/7"]
+    },
+    "floral_zither_new_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/8"]
+    },
+    "floral_zither_new_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/9"]
+    },
+    "floral_zither_new_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/10"]
+    },
+    "floral_zither_new_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/11"]
+    },
+    "floral_zither_new_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/12"]
+    },
+    "floral_zither_new_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/13"]
+    },
+    "floral_zither_new_note_14": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/14"]
+    },
+    "floral_zither_new_note_15": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/15"]
+    },
+    "floral_zither_new_note_16": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/16"]
+    },
+    "floral_zither_new_note_17": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/17"]
+    },
+    "floral_zither_new_note_18": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/18"]
+    },
+    "floral_zither_new_note_19": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/19"]
+    },
+    "floral_zither_new_note_20": {
+        "category": "record",
+        "sounds": ["raveninstrument:floral_zither_new/20"]
+    },
+
+
+    "vintage_lyre_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:vintage_lyre/0"]
+    },
+    "vintage_lyre_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/1"]
+    },
+    "vintage_lyre_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/2"]
+    },
+    "vintage_lyre_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/3"]
+    },
+    "vintage_lyre_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/4"]
+    },
+    "vintage_lyre_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/5"]
+    },
+    "vintage_lyre_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/6"]
+    },
+    "vintage_lyre_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/7"]
+    },
+    "vintage_lyre_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/8"]
+    },
+    "vintage_lyre_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/9"]
+    },
+    "vintage_lyre_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/10"]
+    },
+    "vintage_lyre_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/11"]
+    },
+    "vintage_lyre_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/12"]
+    },
+    "vintage_lyre_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/13"]
+    },
+    "vintage_lyre_note_14": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/14"]
+    },
+    "vintage_lyre_note_15": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/15"]
+    },
+    "vintage_lyre_note_16": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/16"]
+    },
+    "vintage_lyre_note_17": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/17"]
+    },
+    "vintage_lyre_note_18": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/18"]
+    },
+    "vintage_lyre_note_19": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/19"]
+    },
+    "vintage_lyre_note_20": {
+        "category": "record",
+        "sounds": ["raveninstrument:vintage_lyre/20"]
+    },
+
+
+    "glorious_drum_don": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:glorious_drum/don"]
+    },
+    "glorious_drum_ka": {
+        "category": "record",
+        "sounds": ["raveninstrument:glorious_drum/ka"]
+    },
+    "glorious_drum_ka_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:glorious_drum/ka.stereo"]
+    },
+
+
+    "nightwind_horn_hold_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/0"]
+    },
+    "nightwind_horn_hold_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/1"]
+    },
+    "nightwind_horn_hold_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/2"]
+    },
+    "nightwind_horn_hold_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/3"]
+    },
+    "nightwind_horn_hold_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/4"]
+    },
+    "nightwind_horn_hold_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/5"]
+    },
+    "nightwind_horn_hold_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/6"]
+    },
+    "nightwind_horn_hold_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/7"]
+    },
+    "nightwind_horn_hold_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/8"]
+    },
+    "nightwind_horn_hold_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/9"]
+    },
+    "nightwind_horn_hold_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/10"]
+    },
+    "nightwind_horn_hold_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/11"]
+    },
+    "nightwind_horn_hold_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/12"]
+    },
+    "nightwind_horn_hold_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/13"]
+    },
+
+    "nightwind_horn_hold_note_0_stereo": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/0.stereo"]
+    },
+    "nightwind_horn_hold_note_1_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/1.stereo"]
+    },
+    "nightwind_horn_hold_note_2_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/2.stereo"]
+    },
+    "nightwind_horn_hold_note_3_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/3.stereo"]
+    },
+    "nightwind_horn_hold_note_4_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/4.stereo"]
+    },
+    "nightwind_horn_hold_note_5_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/5.stereo"]
+    },
+    "nightwind_horn_hold_note_6_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/6.stereo"]
+    },
+    "nightwind_horn_hold_note_7_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/7.stereo"]
+    },
+    "nightwind_horn_hold_note_8_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/8.stereo"]
+    },
+    "nightwind_horn_hold_note_9_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/9.stereo"]
+    },
+    "nightwind_horn_hold_note_10_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/10.stereo"]
+    },
+    "nightwind_horn_hold_note_11_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/11.stereo"]
+    },
+    "nightwind_horn_hold_note_12_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/12.stereo"]
+    },
+    "nightwind_horn_hold_note_13_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/hold/13.stereo"]
+    },
+
+    "nightwind_horn_attack_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/0"]
+    },
+    "nightwind_horn_attack_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/1"]
+    },
+    "nightwind_horn_attack_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/2"]
+    },
+    "nightwind_horn_attack_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/3"]
+    },
+    "nightwind_horn_attack_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/4"]
+    },
+    "nightwind_horn_attack_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/5"]
+    },
+    "nightwind_horn_attack_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/6"]
+    },
+    "nightwind_horn_attack_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/7"]
+    },
+    "nightwind_horn_attack_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/8"]
+    },
+    "nightwind_horn_attack_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/9"]
+    },
+    "nightwind_horn_attack_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/10"]
+    },
+    "nightwind_horn_attack_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/11"]
+    },
+    "nightwind_horn_attack_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/12"]
+    },
+    "nightwind_horn_attack_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/13"]
+    },
+
+    "nightwind_horn_attack_note_0_stereo": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/0.stereo"]
+    },
+    "nightwind_horn_attack_note_1_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/1.stereo"]
+    },
+    "nightwind_horn_attack_note_2_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/2.stereo"]
+    },
+    "nightwind_horn_attack_note_3_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/3.stereo"]
+    },
+    "nightwind_horn_attack_note_4_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/4.stereo"]
+    },
+    "nightwind_horn_attack_note_5_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/5.stereo"]
+    },
+    "nightwind_horn_attack_note_6_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/6.stereo"]
+    },
+    "nightwind_horn_attack_note_7_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/7.stereo"]
+    },
+    "nightwind_horn_attack_note_8_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/8.stereo"]
+    },
+    "nightwind_horn_attack_note_9_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/9.stereo"]
+    },
+    "nightwind_horn_attack_note_10_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/10.stereo"]
+    },
+    "nightwind_horn_attack_note_11_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/11.stereo"]
+    },
+    "nightwind_horn_attack_note_12_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/12.stereo"]
+    },
+    "nightwind_horn_attack_note_13_stereo": {
+        "category": "record",
+        "sounds": ["raveninstrument:nightwind_horn/attack/13.stereo"]
+    },
+
+
+    "ukulele_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:ukulele/0"]
+    },
+    "ukulele_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/1"]
+    },
+    "ukulele_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/2"]
+    },
+    "ukulele_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/3"]
+    },
+    "ukulele_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/4"]
+    },
+    "ukulele_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/5"]
+    },
+    "ukulele_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/6"]
+    },
+    "ukulele_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/7"]
+    },
+    "ukulele_note_8": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/8"]
+    },
+    "ukulele_note_9": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/9"]
+    },
+    "ukulele_note_10": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/10"]
+    },
+    "ukulele_note_11": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/11"]
+    },
+    "ukulele_note_12": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/12"]
+    },
+    "ukulele_note_13": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/13"]
+    },
+    "ukulele_note_14": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/14"]
+    },
+    "ukulele_note_15": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/15"]
+    },
+    "ukulele_note_16": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/16"]
+    },
+    "ukulele_note_17": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/17"]
+    },
+    "ukulele_note_18": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/18"]
+    },
+    "ukulele_note_19": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/19"]
+    },
+    "ukulele_note_20": {
+        "category": "record",
+        "sounds": ["raveninstrument:ukulele/20"]
+    },
+
+    "djem_djem_drum_note_0": {
+        "catrgory": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/0"]
+    },
+    "djem_djem_drum_note_1": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/1"]
+    },
+    "djem_djem_drum_note_2": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/2"]
+    },
+    "djem_djem_drum_note_3": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/3"]
+    },
+    "djem_djem_drum_note_4": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/4"]
+    },
+    "djem_djem_drum_note_5": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/5"]
+    },
+    "djem_djem_drum_note_6": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/6"]
+    },
+    "djem_djem_drum_note_7": {
+        "category": "record",
+        "sounds": ["raveninstrument:djem_djem_drum/7"]
+    }
+}

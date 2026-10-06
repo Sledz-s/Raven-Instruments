@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "raveninstrument:floral_zither"
+        },
+
+        "title": {
+            "translate": "raveninstrument.advancements.main.root.title"
+        },
+        "description": {
+            "translate": "raveninstrument.advancements.main.root.description"
+        },
+
+        "background": "minecraft:textures/block/note_block.png"
+    },
+
+    "criteria": {
+        "has_instruments": {
+            "trigger": "inventory_changed",
+
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "raveninstrument:instruments"
+                    }
+                ]
+            }
+        }
+    },
+
+    "requirements": [
+        ["has_instruments"]
+    ]
+}

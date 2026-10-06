@@ -1,0 +1,32 @@
+{
+    "parent": "raveninstrument:genshin_instruments/root",
+
+    "display": {
+        "icon": {
+            "item": "raveninstrument:windsong_lyre"
+        },
+
+        "title": {
+            "translate": "raveninstrument.advancements.main.windsong_lyre.title"
+        },
+        "description": {
+            "translate": "raveninstrument.advancements.main.windsong_lyre.description"
+        }
+    },
+
+    "criteria": {
+        "instrument_played": {
+            "trigger": "raveninstrument_instrument_played",
+
+            "conditions": {
+                "instrument": {
+                    "items": ["raveninstrument:windsong_lyre"]
+                }
+            }
+        }
+    },
+
+    "requirements": [
+        ["instrument_played"]
+    ]
+}

@@ -39,7 +39,7 @@ Contributions are more than welcome, and always welcome!
 Want your own language to be available for this mod? Well, I most likely can't speak it; but I bet you can!  
 I do not restrict any one language from being available on my mods, so if you find yours to be unpresent - feel free to attach them in a PR!
 
-The primary, most up-to-date English lang file can be [found here](https://github.com/StavWasPlayZ/Genshin-Instruments/blob/dev/src/main/resources/assets/genshinstrument/lang/en_us.json).
+The primary, most up-to-date English lang file can be [found here](https://github.com/StavWasPlayZ/Genshin-Instruments/blob/dev/src/main/resources/assets/raveninstrument/lang/en_us.json).
 
 Thank you for your help in localization!
 

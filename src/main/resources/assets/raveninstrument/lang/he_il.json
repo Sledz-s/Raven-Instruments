@@ -1,0 +1,151 @@
+{
+    "raveninstrument.keymaps": "כלי נגינה",
+    "raveninstrument.keymaps.transpose_down_modifier": "המנך גובה צליל",
+    "raveninstrument.keymaps.transpose_up_modifier": "הגבהה גובה צליל",
+
+
+    "raveninstrument.itemGroup.instruments": "כלי נגינה",
+
+    "item.raveninstrument.windsong_lyre": "נבל הרוחות",
+    "item.raveninstrument.floral_zither": "הציטר הפרחי",
+    "item.raveninstrument.vintage_lyre": "נבל הבציר",
+    "item.raveninstrument.glorious_drum": "התוף הגדול והמפואר של ארטאקי",
+    "item.raveninstrument.nightwind_horn": "צופר רוח הלילות",
+    "item.raveninstrument.ukulele": "יוקלילי",
+    "item.raveninstrument.djem_djem_drum": "תוף הג'ימג'ום",
+
+
+    "raveninstrument.genshin_disclaimer.content": "מוד כלי הנגינה של גנשין הינו %s ו%s, כלפי שום קשר עם Genshin Impact או HoYoverse.\n\nלכן, כל נכס הנעשה בו שימוש בתוסף, כגון צלילים, תמונות, כלי נגינה וכו' שייכים במלואן ל- HoYoverse.\n\nכמשתמש, עליך מוטלת האחריות המלאה על מעשיך במשחק זה, הכולל ניגון ושיתוף של כל שיר/פיסת מוזיקה המוגן תחת זכויות יוצרים ועוד.",
+    "raveninstrument.genshin_disclaimer.bolden1": "תוצר קהילתי",
+    "raveninstrument.genshin_disclaimer.bolden2": "לא רשמי",
+
+
+    "soundCategory.record": "כלי נגינה",
+
+    "button.raveninstrument.audioChannels": "סוג אאודיו לכלי נגינה",
+    "button.raveninstrument.audioChannels.stereo.tooltip":
+    "בגלל ספציפיקציות מפגרות של OpenAL, כל צליל שנשמע בסטריאו יהיה תקוע על 100%.\nזה כולל חלק מכלי הנגינה.",
+    "button.raveninstrument.audioChannels.stereo": "סטריאו",
+    "button.raveninstrument.audioChannels.mono": "מונו",
+    "button.raveninstrument.audioChannels.mixed.tooltip":
+    "במצב מרובה משתתפים, אם קטגוריית הסאונד \"כלי נגינה\" מכוון על 100% - תשמע.י כלי נגינה על סטריאו במרחק של עד %s בלוקים.\nאחרת, ישמעו במונו, כנ\"ל אם את.ה מנגנ.ת בעצמך.",
+    "button.raveninstrument.audioChannels.mixed": "מעורב",
+    "button.raveninstrument.stop_music_on_play.tooltip": "כאשר את.ה או שחקנים אחרים בטווח של %s בלוקים מנגנים בכלי נגינה, מוזיקת הרקע תחדול לנגן.",
+    "button.raveninstrument.stop_music_on_play": "הפסק מוזיקה בעת נגינה",
+    "button.raveninstrument.shared_instrument.tooltip": "ראה מה שחקנים אחרים מנגנים במסך הנגינה שלך",
+    "button.raveninstrument.shared_instrument": "מסך נגינה משותף",
+
+    "button.raveninstrument.render_background": "הצג תפאורות רקע",
+    "button.raveninstrument.accurate_notes": "תווים מדוייקים",
+    "button.raveninstrument.accurate_notes.tooltip": "כאשר אופציה זו מופעלת, יוצגו התווים ויתקיהם בהתאם לגובה הצליל הנבחר",
+
+
+    "button.raveninstrument.midiEnabled": "MIDI מופעל",
+    "button.raveninstrument.midiDevice": "מכשיר MIDI",
+
+    "button.raveninstrument.fixedTouch": "מגע קבוע",
+    "button.raveninstrument.fixedTouch.tooltip": "מגדיר אם מהירות הלחיצה על תו לא תשפיע על הווליום של כלי הנגינה",
+    "button.raveninstrument.inputSensitivity": "רגישות",
+
+    "button.raveninstrument.extendOctaves": "הרחב אוקטבות",
+    "button.raveninstrument.extendOctaves.tooltip": "כאשר תו העובר את מגבלת האוקטבות המובנת מתנגן, יעלה/יוריד את גובה הצליל כדיי להתאימו. בגלל איך שמיינקראפט בנוי, יכול להעלות/לרדת עד דו מז'ור.",
+
+    "button.raveninstrument.midiOctaveShift": "הסטת אוקטבות",
+    "button.raveninstrument.midiChannel": "ערוץ MIDI",
+    "button.raveninstrument.acceptAllChannels": "הקשב לכל הערוצים",
+
+
+    "button.raveninstrument.dominantDrumType": "סוג הטוף השולט",
+    "button.raveninstrument.dominantDrumType.both": "שניהם",
+
+    "button.raveninstrument.dominantDrumType.both.tooltip": "מכשיר הMIDI יחולק ל- 2 בדו האמצעי, כך שמפתח פה מנגן Don ודו Ka",
+    "button.raveninstrument.dominantDrumType.don.tooltip": "כל התווים הם מסוג צליל Don",
+    "button.raveninstrument.dominantDrumType.ka.tooltip": "כל התווים הם מסוג צליל Ka",
+
+
+    "button.raveninstrument.normalize_vintage_lyre": "נרמל את הנבל",
+    "button.raveninstrument.normalize_vintage_lyre.tooltip": "מנרמל את כל צלילי הנבל תחת היתק במול. אינו חל על גובה הצליל המקסימלי.",
+
+    "button.raveninstrument.ukulele_3rd_octave" : "האוקטבה השלישית של היוקלילי",
+    "button.raveninstrument.ukulele_3rd_octave.chords" : "אקורדים",
+    "button.raveninstrument.ukulele_3rd_octave.treble" : "מפתח סול",
+    "button.raveninstrument.ukulele_3rd_octave.treble.tooltip": "בשל מגבלות טכניות במיינקראפט, ככל וגובה הצליל גובר, כך יותר מהתווים ישמעו כסי דיאז שני.",
+
+
+    "button.none": "כלום",
+
+
+
+    "button.raveninstrument.instrumentOptions": "אפשרויות כלי נגינה",
+    "label.raveninstrument.zither_options": "אפשרויות הציטר",
+    "label.raveninstrument.vintage_lyre_options": "אפשרויות נבל הבציר",
+    "label.raveninstrument.midiOptions": "אפשרויות MIDI",
+
+
+    "button.raveninstrument.label": "תגיות התווים",
+    "button.raveninstrument.pitch": "גובה צליל",
+    "button.raveninstrument.volume": "ווליום כלי הנגינה",
+
+    "button.raveninstrument.zither.soundType": "סוג צליל",
+    "button.raveninstrument.zither.soundType.old": "ישן",
+    "button.raveninstrument.zither.soundType.new": "חדש",
+
+
+    "button.raveninstrument.label.do_re_mi": "דו רה מי",
+    "button.raveninstrument.label.do_re_mi.description": "תגיות התווים יהיו מסוג הסימון המוזיקלי \"דו רה מי\"",
+
+    "raveninstrument.label.do": "דו",
+    "raveninstrument.label.re": "רה",
+    "raveninstrument.label.mi": "מי",
+    "raveninstrument.label.fa": "פה",
+    "raveninstrument.label.so": "סול",
+    "raveninstrument.label.la": "לה",
+    "raveninstrument.label.ti": "טי",
+
+    "button.raveninstrument.label.note_name.description": "תגיות התווים יהיו מסוג הסימון המוזיקלי \"ABC\"",
+
+    "button.raveninstrument.label.keyboard_layout": "מקלדת",
+    "button.raveninstrument.label.keyboard_layout.description": "תגיות התווים יתאימו לפריסת המקלדת הנוכחית",
+    "button.raveninstrument.label.qwerty": "מקלדת (QWERTY)",
+    "button.raveninstrument.label.qwerty.description": "תגיות התווים יתאימו לפריסת המקלדת QWERTY",
+
+    "button.raveninstrument.label.fixed_do_re_mi": "דו רה מי קבוע",
+    "button.raveninstrument.label.fixed_do_re_mi.description": "תגיות \"דו רו מי\" אשר אינם מושפעות בידי שינוי גובה הצליל",
+    "button.raveninstrument.label.fixed_abc": "ABC קבוע",
+    "button.raveninstrument.label.fixed_abc.description": "תגיות \"ABC\" אשר אינם מושפעות בידי שינוי גובה הצליל",
+
+    "button.raveninstrument.label.genshin_notation": "סימוני גנשין",
+    "button.raveninstrument.label.genshin_notation.description": "התווים מסומנים כמופיע בגנשין אימפקט עצמו.",
+
+    "button.raveninstrument.label.none": "ללא תגית",
+
+
+
+    "raveninstrument.advancements.main.root.title": "מסעו של משורר",
+    "raveninstrument.advancements.main.root.description": "למרות ו-יין אולי לא יהיה לצידך, כלי הנגינה תמיד יובילו אותך דרך משחק החופש.",
+
+    "raveninstrument.advancements.main.master.title": "להקת יחיד",
+    "raveninstrument.advancements.main.master.description": "החזק בכל כלי הנגינה של גנשין בתיקך בבת אחד",
+
+    "raveninstrument.advancements.main.windsong_lyre.title": "צלילי הרוחות",
+    "raveninstrument.advancements.main.windsong_lyre.description": "נגן בנבל הרוחות",
+
+    "raveninstrument.advancements.main.vintage_lyre.title": "היער יזכור",
+    "raveninstrument.advancements.main.vintage_lyre.description": "נגן בנבל הבציר",
+
+    "raveninstrument.advancements.main.glorious_drum.title": "לגמרי לא עקיצה",
+    "raveninstrument.advancements.main.glorious_drum.description": "נגן בטוף של ארטאקי",
+
+    "raveninstrument.advancements.main.floral_zither.title": "נגן בסתר",
+    "raveninstrument.advancements.main.floral_zither.description": "נגן בציטר הפרחי",
+
+    "raveninstrument.advancements.main.nightwind_horn.title": "הסימפוניה האחרונה",
+    "raveninstrument.advancements.main.nightwind_horn.description": "נגן בצופר רוח הלילות",
+
+    "raveninstrument.advancements.main.people_of_the_springs.title": "רודף הגלים",
+    "raveninstrument.advancements.main.people_of_the_springs.description": "נגן באחד מכלי הנגינה של אנשי המעיינות",
+
+    "raveninstrument.advancements.main.master_of_the_springs.title": "מומחה המעיינות",
+    "raveninstrument.advancements.main.master_of_the_springs.description": "נגן בכל כלי הנגינה של אנשי המעיינות",
+
+}

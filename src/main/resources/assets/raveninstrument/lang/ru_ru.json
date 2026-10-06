@@ -1,0 +1,99 @@
+{
+    "raveninstrument.keymaps": "инструменты",
+    "raveninstrument.keymaps.transpose_up_modifier": "Повышение высоты инструмента",
+    "raveninstrument.keymaps.transpose_down_modifier": "Уменьшение высоты инструмента",
+
+
+    "raveninstrument.itemGroup.instruments": "инструменты",
+
+    "item.raveninstrument.windsong_lyre": "Лира ветров",
+    "item.raveninstrument.floral_zither": "Цветочная цитра",
+    "item.raveninstrument.vintage_lyre": "Старинная лира",
+    "item.raveninstrument.glorious_drum": "Грандиозный барабан Аратаки",
+    "item.raveninstrument.nightwind_horn": "Горн ночного ветра",
+    "item.raveninstrument.ukulele": "Укулеле",
+    "item.raveninstrument.djem_djem_drum": "Барабан джем-джем",
+
+
+
+    "soundCategory.record": "инструменты",
+
+    "button.raveninstrument.audioChannels": "Тип инструментального аудиоканала",
+    "button.raveninstrument.audioChannels.stereo.tooltip":
+        "ВНИМАНИЕ: Из-за некоторых раздражающих спецификаций OpenAL, все звуки, произведенные на Stereo, будут застряли на 100%.\nЭто включает некоторые инструменты.",
+    "button.raveninstrument.audioChannels.stereo": "Стерео",
+    "button.raveninstrument.audioChannels.mono": "Моно",
+    "button.raveninstrument.audioChannels.mixed.tooltip":
+        "Если для категории звука Instruments установлено значение 100%, то в пределах %s блоков диапазона вы будете слышать инструменты в режиме Stereo.\nВ противном случае вы будете слышать Mono.",
+    "button.raveninstrument.audioChannels.mixed": "Смешанные",
+    "button.raveninstrument.stop_music_on_play.tooltip": "Когда вы или другие игроки в радиусе %s блоков играют на инструменте, фоновая музыка Minecraft остановится.",
+    "button.raveninstrument.stop_music_on_play": "Остановка музыки при воспроизведении",
+    "button.raveninstrument.shared_instrument.tooltip": "Смотрите на экране своего инструмента, какие ноты нажимают другие игроки поблизости",
+    "button.raveninstrument.shared_instrument": "Экран общего инструмента",
+
+    "button.raveninstrument.render_background": "Показать фоновые визуальные",
+    "button.raveninstrument.accurate_notes": "Точные примечания",
+    "button.raveninstrument.accurate_notes.tooltip": "Во включенном состоянии обеспечивает точное отображение нотных символов и аккомпанементов, используемых в раскладке данного инструмента",
+
+    
+    "button.raveninstrument.instrumentOptions": "Варианты инструментов",
+    "label.raveninstrument.zither_options": "Варианты цитры",
+
+    
+    "button.raveninstrument.label": "Наклейки для заметок",
+    "button.raveninstrument.volume": "Громкость инструмента",
+
+    "button.raveninstrument.zither.soundType": "Тип звука",
+    "button.raveninstrument.zither.soundType.old": "Старый",
+    "button.raveninstrument.zither.soundType.new": "Новый",
+
+    "button.raveninstrument.ukulele_extend_2nd_octave" : "Расширение 2-й октавы укулеле",
+
+
+    "button.raveninstrument.label.do_re_mi": "до ре ми",
+    "button.raveninstrument.label.do_re_mi.description": "Наклейки будут иметь нотную запись \"до ре ми\".",
+
+    "raveninstrument.label.do": "до",
+    "raveninstrument.label.re": "ре",
+    "raveninstrument.label.mi": "ми",
+    "raveninstrument.label.fa": "фа",
+    "raveninstrument.label.so": "соль",
+    "raveninstrument.label.la": "ля",
+    "raveninstrument.label.ti": "ти",
+
+    "button.raveninstrument.label.note_name.description": "Этикетки будут иметь нотную запись \"ABC\".",
+
+    "button.raveninstrument.label.keyboard_layout": "Клавиатура",
+    "button.raveninstrument.label.keyboard_layout.description": "Метки будут соответствовать вашей локальной раскладке клавиатуры",
+    "button.raveninstrument.label.qwerty": "Клавиатура (QWERTY)",
+    "button.raveninstrument.label.qwerty.description": "Ярлыки будут иметь раскладку клавиатуры QWERTY",
+    "button.raveninstrument.label.fixed_do_re_mi": "фиксированные до ре ми",
+    "button.raveninstrument.label.fixed_do_re_mi.description": "Метки ABC, на которые не влияют пользовательские транспозиции (питч)",
+    "button.raveninstrument.label.fixed_abc": "фиксированные ABC",
+    "button.raveninstrument.label.fixed_abc.description": "до ре ми метки, на которые не влияют пользовательские транспозиции (питч)",
+    "button.raveninstrument.label.none": "Без этикетки",
+
+
+
+    "raveninstrument.advancements.main.root.title": "Путешествие барда",
+    "raveninstrument.advancements.main.root.description": "Хотя вина может не быть рядом с вами, инструменты всегда проведут вас через Игру свободы",
+
+    "raveninstrument.advancements.main.master.title": "Группа одного",
+    "raveninstrument.advancements.main.master.description": "Иметь все инструменты в инвентаре одновременно",
+    
+    "raveninstrument.advancements.main.windsong_lyre.title": "Звук ветра",
+    "raveninstrument.advancements.main.windsong_lyre.description": "Играть на лире Windsong",
+    
+    "raveninstrument.advancements.main.vintage_lyre.title": "Лес будет помнить",
+    "raveninstrument.advancements.main.vintage_lyre.description": "Играть на старинной лире",
+    
+    "raveninstrument.advancements.main.glorious_drum.title": "Абсолютно не мошенничество",
+    "raveninstrument.advancements.main.glorious_drum.description": "Играйте на славном барабане Аратаки",
+    
+    "raveninstrument.advancements.main.floral_zither.title": "Проигрыватель инкогнито",
+    "raveninstrument.advancements.main.floral_zither.description": "Играть на цветочной цитре",
+
+    "raveninstrument.advancements.main.nightwind_horn.title": "Заключительная симфония",
+    "raveninstrument.advancements.main.nightwind_horn.description": "Играть в Горн ночного ветра"
+
+}

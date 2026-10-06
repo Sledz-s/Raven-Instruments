@@ -1,0 +1,166 @@
+{
+    "raveninstrument.keymaps": "Instruments GUI",
+    "raveninstrument.keymaps.transpose_up_modifier": "Transpose Instrument Up",
+    "raveninstrument.keymaps.transpose_down_modifier": "Transpose Instrument Down",
+
+
+    "raveninstrument.itemGroup.instruments": "Instruments",
+
+    "item.raveninstrument.windsong_lyre": "Windsong Lyre",
+    "item.raveninstrument.floral_zither": "Floral Zither",
+    "item.raveninstrument.vintage_lyre": "Vintage Lyre",
+    "item.raveninstrument.glorious_drum": "Arataki's Great and Glorious Drum",
+    "item.raveninstrument.nightwind_horn": "Nightwind Horn",
+    "item.raveninstrument.ukulele": "Ukulele",
+    "item.raveninstrument.djem_djem_drum": "Djem Djem Drum",
+
+
+    "soundCategory.record": "Instruments",
+
+
+    "button.raveninstrument.instrumentOptions": "Instrument Options",
+    "label.raveninstrument.midiOptions": "MIDI Options",
+    "label.raveninstrument.zither_options": "Zither Options",
+    "label.raveninstrument.vintage_lyre_options": "Vintage Lyre Options",
+    "label.raveninstrument.ukulele_options": "Ukulele Options",
+
+    "raveninstrument.genshin_disclaimer.title": "Disclaimer!",
+    "raveninstrument.genshin_disclaimer.content": "Genshin Instruments is an %s and %s Minecraft mod that is in no way affiliated with neither Genshin Impact nor HoYoverse.\n\nThus, all Genshin-related assets used in-game, such as sounds, images, instruments etc. are of complete ownership to HoYoverse.\n\nAs the user, you have the full responsibility over your actions within the game, including (but not limited to!) playing and sharing/publishing any songs that may be protected under copyright laws.",
+    "raveninstrument.genshin_disclaimer.bolden1": "unofficial",
+    "raveninstrument.genshin_disclaimer.bolden2": "fanmade",
+
+
+    "button.raveninstrument.audioChannels": "Instrument Audio Channel Type",
+    "button.raveninstrument.audioChannels.mono": "Mono",
+    "button.raveninstrument.audioChannels.stereo": "Stereo",
+    "button.raveninstrument.audioChannels.stereo.tooltip":
+    "NOTICE: Because of some annoying specification by OpenAL, all sounds produced on Stereo will be stuck on 100%.\nThis includes some instruments.",
+    "button.raveninstrument.audioChannels.mixed.tooltip":
+    "If the Instruments sound category is set to 100%, you will hear instruments on Stereo within %s blocks of range.\nOtherwise, you will hear Mono.",
+    "button.raveninstrument.audioChannels.mixed": "Mixed",
+    "button.raveninstrument.stop_music_on_play.tooltip": "When you or other players within %s blocks of range play an instrument, Minecraft's background music will stop.",
+    "button.raveninstrument.stop_music_on_play": "Stop Music On Play",
+    "button.raveninstrument.shared_instrument.tooltip": "See what other notes players nearby are playing in your instrument's screen",
+    "button.raveninstrument.shared_instrument": "Shared Instrument Screen",
+
+    "button.raveninstrument.render_background": "Show Background Visuals",
+    "button.raveninstrument.accurate_notes": "Accurate Notes",
+    "button.raveninstrument.accurate_notes.tooltip": "When on, provides a pitch-accurate representation of the note symbols and accidentals used by this instrument's layout",
+
+
+    "button.raveninstrument.midiEnabled": "MIDI Enabled",
+    "button.raveninstrument.midiDevice": "MIDI Device",
+
+    "button.raveninstrument.fixedTouch": "Fixed Touch",
+    "button.raveninstrument.fixedTouch.tooltip": "Defines whether the velocity of a note press will not affect the instrument's volume",
+    "button.raveninstrument.inputSensitivity": "Sensitivity",
+
+    "button.raveninstrument.extendOctaves": "Extend Octaves",
+    "button.raveninstrument.extendOctaves.tooltip": "When a note that is higher/lower than the usual octave range is played, will automatically adjust the pitch to match your playings. Can only extend up to 1 octave per side: high and low C.\nBlame Minecraft.",
+
+    "button.raveninstrument.midiOctaveShift": "Octave Shift",
+    "button.raveninstrument.midiChannel": "MIDI Channel",
+    "button.raveninstrument.acceptAllChannels": "Listen to All Channels",
+
+
+    "button.raveninstrument.dominantDrumType": "Dominant Drum Type",
+    "button.raveninstrument.dominantDrumType.both": "Both",
+
+    "button.raveninstrument.dominantDrumType.both.tooltip": "The MIDI keyboard will be split in middle C, such that low C plays Don and high plays Ka",
+    "button.raveninstrument.dominantDrumType.don.tooltip": "The whole keyboard plays Don",
+    "button.raveninstrument.dominantDrumType.ka.tooltip": "The whole keyboard plays Ka",
+
+
+    "button.raveninstrument.normalize_vintage_lyre": "Normalize Vintage Lyre",
+    "button.raveninstrument.normalize_vintage_lyre.tooltip": "Normalizes all flattened notes in the Vintage Lyre. Does not apply to the max pitch.",
+
+    "button.raveninstrument.ukulele_3rd_octave" : "Ukulele's 3rd Octave",
+
+    "button.raveninstrument.ukulele_3rd_octave.chords" : "Chords",
+    "button.raveninstrument.ukulele_3rd_octave.treble" : "Treble",
+    "button.raveninstrument.ukulele_3rd_octave.treble.tooltip": "Because of Minecraft limitations, the more you pitch up the instrument, the more notes will be heard as B2.",
+
+
+    "button.none": "None",
+
+
+
+    "button.raveninstrument.label": "Note Labels Type",
+    "button.raveninstrument.pitch": "Pitch",
+    "button.raveninstrument.volume": "Instrument Volume",
+
+    "button.raveninstrument.zither.soundType": "Sound Type",
+    "button.raveninstrument.zither.soundType.old": "Old",
+    "button.raveninstrument.zither.soundType.new": "New",
+
+
+    "button.raveninstrument.label.do_re_mi": "do re mi",
+    "button.raveninstrument.label.do_re_mi.description": "Labels will be of the musical notation \"do re mi.\"",
+
+    "raveninstrument.label.do": "do",
+    "raveninstrument.label.re": "re",
+    "raveninstrument.label.mi": "mi",
+    "raveninstrument.label.fa": "fa",
+    "raveninstrument.label.so": "so",
+    "raveninstrument.label.la": "la",
+    "raveninstrument.label.ti": "ti",
+
+    "raveninstrument.label.glorious_drum.ka": "ka",
+    "raveninstrument.label.glorious_drum.don": "don",
+
+
+    "button.raveninstrument.label.keyboard_layout": "Keyboard",
+    "button.raveninstrument.label.keyboard_layout.description": "Labels will be of your local keyboard layout",
+    "button.raveninstrument.label.qwerty": "Keyboard (QWERTY)",
+    "button.raveninstrument.label.qwerty.description": "Labels will be of the QWERTY keyboard layout",
+    "button.raveninstrument.label.note_name": "ABC",
+    "button.raveninstrument.label.note_name.description": "Labels will be of the musical notation \"ABC\"",
+
+    "button.raveninstrument.label.fixed_abc": "Fixed ABC",
+    "button.raveninstrument.label.fixed_abc.description": "ABC labels that are not affected by custom transpositions (pitch)",
+    "button.raveninstrument.label.fixed_do_re_mi": "Fixed do re mi",
+    "button.raveninstrument.label.fixed_do_re_mi.description": "do re mi labels that are not affected by custom transpositions (pitch)",
+
+    "button.raveninstrument.label.none": "No Label",
+    "button.raveninstrument.label.none.description": "",
+
+    "button.raveninstrument.label.don_ka": "Don-Ka",
+
+    "button.raveninstrument.label.genshin_notation": "Genshin Notation",
+    "button.raveninstrument.label.genshin_notation.description": "The note labeling, as appears in Genshin Impact.",
+
+    "raveninstrument.label.genshin_notation.djem_djem_drum.b": "B",
+    "raveninstrument.label.genshin_notation.djem_djem_drum.t": "T",
+    "raveninstrument.label.genshin_notation.djem_djem_drum.s": "S",
+    "raveninstrument.label.genshin_notation.djem_djem_drum.r": "R",
+
+
+
+    "raveninstrument.advancements.main.root.title": "A Bard's Journey",
+    "raveninstrument.advancements.main.root.description": "Though wine may not be by your side, the instruments will always walk you through the Game of Freedom.",
+
+    "raveninstrument.advancements.main.master.title": "A Band of One",
+    "raveninstrument.advancements.main.master.description": "Have all Genshin instruments in your inventory at once",
+
+    "raveninstrument.advancements.main.windsong_lyre.title": "The Sound of Wind",
+    "raveninstrument.advancements.main.windsong_lyre.description": "Play the Windsong Lyre",
+
+    "raveninstrument.advancements.main.vintage_lyre.title": "The Forest Will Remember",
+    "raveninstrument.advancements.main.vintage_lyre.description": "Play the Vintage Lyre",
+
+    "raveninstrument.advancements.main.glorious_drum.title": "Totally Not a Scam",
+    "raveninstrument.advancements.main.glorious_drum.description": "Play Arataki's Great and Glorious Drum",
+
+    "raveninstrument.advancements.main.floral_zither.title": "Incognito Player",
+    "raveninstrument.advancements.main.floral_zither.description": "Play the Floral Zither",
+
+    "raveninstrument.advancements.main.nightwind_horn.title": "The Final Symphony",
+    "raveninstrument.advancements.main.nightwind_horn.description": "Play the Nightwind Horn",
+
+    "raveninstrument.advancements.main.people_of_the_springs.title": "Chasing Waves",
+    "raveninstrument.advancements.main.people_of_the_springs.description": "Play any of the People of the Springs' instruments",
+
+    "raveninstrument.advancements.main.master_of_the_springs.title": "Master of the Springs",
+    "raveninstrument.advancements.main.master_of_the_springs.description": "Play all of the People of the Springs' instruments"
+
+}
