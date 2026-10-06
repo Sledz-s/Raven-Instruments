@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github.com/StavWasPlayZ/Genshin-Instruments/blob/master/src/main/resources/icon.png?raw=true" width="100" alt="Genshin Instruments mod logo">
 
-# Genshin Instruments
+# Raven Instruments
 
-Genshin Instruments is a Forge, NeoForge and Fabric mod that brings in Genshin Impact's set of instruments into your Minecraft worlds!
+Raven Instruments is an unofficial fork of Genshin Instruments, that aims to add completely new instruments!
 
 For documentation of gameplay, visit [the mod's CurseForge page](https://www.curseforge.com/minecraft/mc-mods/genshin-instruments).  
 For full Mod and "in-game" API documentations, visit [the Forge version's repository wiki](https://github.com/StavWasPlayZ/Genshin-Instruments/wiki).
